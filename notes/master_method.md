@@ -1,5 +1,5 @@
-Master Method:
-================================================
+## Master Method
+
 Master Method is a direct way to get the recurrence solution. The master method works only for following type of recurrences or for recurrences that can be transformed to following type.
 
 T(n) = aT(n/b) + f(n) where a >= 1 and b > 1

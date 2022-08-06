@@ -8,12 +8,12 @@ So far, this manual is incomplete. I'll try my best to finish it.
 
 The final solutions may contain errors. Use with caution. Also do raise an issue, if you find any errors.
 
-### Current status of the solution manual 
+### Current status
 |Chapter|Status|
 |-----|-----|
 |0|Untouched|
 |1|__Complete__|
-|2|Untouched|
+|2|_Ongoing_|
 |3|Missing|
 |4|Missing|
 |5|Missing|
@@ -34,3 +34,21 @@ For exercises tallied in this section, I either didn't/still don't understand th
 |-----|-----|-----|-----|-----|
 |1|1.36 b|Square roots|Don't understand|Finished|
 |1|1.43|RSA|Don't know how to solve|Finished|
+
+### FAQs
+
+1. Why do you upload your solutions to a public repository?
+    
+    I upload my solutions to document my own learning process. I find that it is easier for me spot errors and mistakes when I write the solution down. I made it public because I want other learners to correct my mistakes that I overlooked.
+
+1.  Would I get a perfect score in my assignment if I copy-and-pasted the solutions here?
+   
+    I don't think so. I purposely omitted the obvious steps in many of my solutions. But the basic ideas are there. In order to get a perfect score, I would fill in those holes and give as much details as required by your instructor.
+
+1. Do you think the material provided here encourages cheating?
+
+    No. It is good to have a freely accessible solution manual. To cheat or not to cheat, that's a choice you make. I stay neutral to your freedom to choose, but I encourage learning. I am glad if the material provided here helps your learning.
+
+1. Can I fork it?
+
+    Fork away! Just remember to add a link back to this repository.

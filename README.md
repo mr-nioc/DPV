@@ -10,9 +10,9 @@ The final solutions may contain errors. Use with caution. Also do raise an issue
 
 ### Missing ones
 
-For exercises tallied in this section, I either don't understand the exercise, couldn't solve it or both. I'll come back to them later.
+For exercises tallied in this section, I either didn't/still don't understand the exercise, couldn't solve it or both. I'll come back to them later. Sometimes, to solve a problem, all you ever need is to clear your mind, walk away for a while, and come back to finish it later.
 
-|Chapter| Number | Brief description|
-|-----|-----|-----|
-|1|1.36 b|Square roots|
-||||
+|Chapter| Number | Brief description|Reason|Status|
+|-----|-----|-----|-----|-----|
+|1|1.36 b|Square roots|Don't understand|Finished|
+|||||

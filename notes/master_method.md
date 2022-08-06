@@ -1,12 +1,13 @@
 ## Master Method
 
-Master Method is a direct way to get the recurrence solution. The master method works only for following type of recurrences or for recurrences that can be transformed to following type.
+The master method works for following type of recurrences
 
-T(n) = aT(n/b) + f(n) where a >= 1 and b > 1
+$T(n) = aT(n/b) + \Theta(n^c)$ where $a \ge 1$ and $b > 1$
 
-There are following three cases:
-1. If f(n) = Θ(n^c) where c < logb(a) then T(n) = Θ(n^(logb(a)))
+with three cases:
 
-2. If f(n) = Θ(n^c) where c = logb(a) then T(n) = Θ(n^c * (logn))
+- if $c < \log_ba$, then $T(n) = \Theta(n^{\log_ba})$;
 
-3. If f(n) = Θ(n^c) where c > logb(a) then T(n) = Θ(f(n))
+- if $c = \log_ba$, then $T(n) = \Theta(n^c\log n)$;
+
+- if $c > \log_ba$, then $T(n) = \Theta(n^c)$.
